@@ -1,15 +1,13 @@
 {
-  "name": "for Indian",
-  "description": "hanime + Anime + Movies + Adult",
+  "name": "For Indian",
+  "description": "Hanime + Anime + Movies + Adult",
   "version": 1,
+  "repositories": [],
   "extensions": [
     { "name": "Animedekho", "url": "https://animedekho.co" },
     { "name": "HindiSubAnime", "url": "https://hindisubanime.co" },
     { "name": "ToonStream", "url": "https://toonstream.love" },
     { "name": "TpxSub", "url": "https://tpxsub.com" },
-    { "name": "NxPrime", "url": "https://nxprime.in" },
-    { "name": "Aniflix", "url": "https://aniflix.in" },
-    { "name": "HentaiHaven", "url": "https://hentaihaven.xxx" },
-    { "name": "HentaiCity", "url": "https://hentai.com" }
+    { "name": "NxPrime", "url": "https://nxprime.in" }
   ]
 }
